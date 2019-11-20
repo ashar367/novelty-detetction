@@ -14,4 +14,4 @@ class:sklearn.neighbors.LocalOutlierFactor
 
 ## Output
 
-![Image of objects](https://github.com/ashar367/camera-control-and-image-manipulation/blob/master/image-F35-01.png)
+![Image of objects](https://github.com/ashar367/novelty-detetction/blob/master/outliers.png)
