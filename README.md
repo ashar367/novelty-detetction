@@ -3,6 +3,7 @@
  
 The characteristics of different anomaly detection algorithms on 2D datasets is being illustarted from SciKit-learn.
 
+```
 class:sklearn.svm.OneClassSVM, 
 
 class:sklearn.covariance.EllipticEnvelop, 
@@ -10,6 +11,7 @@ class:sklearn.covariance.EllipticEnvelop,
 Class:sklearn.ensemble.IsolationForest
 
 class:sklearn.neighbors.LocalOutlierFactor
+```
 
 
 ## Output
